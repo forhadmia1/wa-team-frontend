@@ -43,11 +43,12 @@ const Home = () => {
                         <IoCallOutline className='ml-5' />
                         <div className='bg-accent h-6 w-[1px] ml-5'></div>
                         <VscSearch className='ml-5' />
-                        <div className='w-8 h-8 rounded-full bg-primary ml-5'>
+                        <div className='ml-5'>
+                            <img className='w-8 h-8 rounded-full' src="https://img.freepik.com/free-photo/woman-portrait-with-blue-lights-visual-effects_23-2149419443.jpg?w=740&t=st=1666711820~exp=1666712420~hmac=3c711240de6780a9759f1dc817e863fdab43f94163d757dd178e4fcff7055476" alt="" />
                         </div>
                     </div>
                 </div>
-                <div className='w-full h-[calc(100vh-113px)] '>
+                <div className='w-full h-[calc(100vh-112px)]'>
                     <ChatBox />
                 </div>
                 <div className='border-t border-accent w-full h-14 absolute bottom-0 left-0 px-5 flex items-center bg-base-100'>

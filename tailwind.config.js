@@ -15,6 +15,7 @@ module.exports = {
       'secondary': '#0984e3',
       'base-100': '#ecf0f1',
       'accent': '#b2bec3',
+      'message': '#f7ed7b',
     },
     extend: {},
   },
