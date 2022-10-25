@@ -2,7 +2,7 @@ import React from 'react';
 
 const ChatItem = () => {
     return (
-        <div className='px-5 py-2 gap-2 flex items-center'>
+        <div className='px-5 py-2 gap-2 flex items-center cursor-pointer'>
             <div>
                 <img className='w-8 h-8 rounded-full' src="https://img.freepik.com/free-photo/woman-portrait-with-blue-lights-visual-effects_23-2149419443.jpg?w=740&t=st=1666711820~exp=1666712420~hmac=3c711240de6780a9759f1dc817e863fdab43f94163d757dd178e4fcff7055476" alt="" />
             </div>
